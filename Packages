@@ -1,0 +1,13 @@
+Package: com.shmabeee.test1
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Shmabeee <Shmabeee@gmail.com>
+Filename: /Test1.deb
+Size: 2220
+MD5sum: 80c71b85c01a82144c29b9a0607859b7
+SHA1: 8b1168e6774beb3898862a4d1a98d58f66cd562c
+SHA256: 13f216ad54365725bc315a9ed94e21f4989522c889411e40537831307e4f649e
+Section: Tweaks
+Description: A test tweak for my repo.
+Author: Shmabeee <shmabeee@gmail.com>
+Name: Test1 Is a Test
